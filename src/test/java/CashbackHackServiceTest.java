@@ -8,7 +8,6 @@ public class CashbackHackServiceTest {
     CashbackHackService cashback = new CashbackHackService();
 
 
-
     @Test
     public void shouldAmountAbove1000() {
         int amount = 1200;
